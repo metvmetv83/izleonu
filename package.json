@@ -1,0 +1,14 @@
+{
+  "name": "stream-downloader",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "npm install"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.6.0",
+    "axios": "^1.6.2"
+  }
+}
